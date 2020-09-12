@@ -1,0 +1,2 @@
+# NODE-JS-SEQUELIZE-BOILERPLATE
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/98790f65dfd5474d9d13aa0bdabb0b3f)](https://app.codacy.com/manual/josphatwambugu77/NODE-JS-SEQUELIZE-BOILERPLATE?utm_source=github.com&utm_medium=referral&utm_content=wambugucoder/NODE-JS-SEQUELIZE-BOILERPLATE&utm_campaign=Badge_Grade_Dashboard)
