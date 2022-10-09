@@ -4,14 +4,14 @@
   "description": "MYSQL CRUD APP",
   "main": "server.js",
   "scripts": {
-     "start": "node server.js",
+    "start": "node server.js",
     "server": "nodemon server.js"
   },
   "author": "Jos Wambugu",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mysql2": "^2.2.5",
     "nodemon": "^2.0.6",
     "sequelize": "^6.4.0"
